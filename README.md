@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/0ce1ecQ.png" alt="logo" width="200" height="auto" />
+  <img src="https://i.imgur.com/0jb3H9m.png" alt="logo" width="200" height="auto" />
   <h1>Burger Bomb</h1>
   
   <p>
@@ -56,7 +56,7 @@
 - Access to the administration panel -> <a href="https://tomaszenko.networkmanager.pl/bb/login">Admin Panel</a>
   + email: admin@bb.com
   + password: Burgerbomb123
-- In the `Admins` tab, you can add new administrators, as well as edit and delete existing ones. It is worth noting that administrators are divided into 2 roles. `Super Admin` and` Admin`. The former have greater rights to manage the application,
+- In the `Admins` tab, you can add new administrators, as well as edit and delete existing ones. It is worth noting that administrators are divided into 2 roles. `Super Admin` and `Admin`. The former have greater rights to manage the application,
 - `BOTD` is a tab where we can choose from a list of existing burgers - Burger of the day,
 - In the `Burgers` tab, we add, edit and delete burgers,
 - In the `Coupons` tab, we add, edit and delete discount codes,
