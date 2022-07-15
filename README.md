@@ -40,7 +40,7 @@
   + Styled Components
   + Eventrix (global state)
 
-- Backend -> <a href="https://github.com/tomaszburas/BurgerBombBE">Server repo.</a>
+- Server -> <a href="https://github.com/tomaszburas/BurgerBombBE">Server repo.</a>
 
   + Node.js
   + Express.js
