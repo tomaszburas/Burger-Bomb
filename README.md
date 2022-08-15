@@ -1,7 +1,6 @@
 <div align="center">
 
   <img src="https://i.imgur.com/0jb3H9m.png" alt="logo" width="200" height="auto" />
-  <h1>Burger Bomb</h1>
   
   <p>
     Online order management application for burgers house.
